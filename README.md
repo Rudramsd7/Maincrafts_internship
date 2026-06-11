@@ -30,4 +30,5 @@ Linear Regression
 - house_price_model.pkl
 
 ## Author
-Rudram
+Rudra Dahikar
+
