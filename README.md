@@ -191,6 +191,6 @@ Open the notebook and execute all cells.
 
 ## 👨‍💻 Author
 
-**Name:** Your Name
+**Name:** Rudra Dahikar
 
 Artificial Intelligence & Machine Learning Internship Project
